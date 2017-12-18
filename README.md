@@ -45,8 +45,8 @@ Devploit
 <img src="https://i.imgur.com/k0XG34B.png" width="23%"></img> <img src="https://i.imgur.com/Fk96LNo.png" width="23%"></img> <img src="https://i.imgur.com/sAJ74dY.png" width="23%"></img> 
 
 ##  ★ video tutorial: 
+[![ Devploit - Information Gathering Tool ](https://i.ytimg.com/vi/FghJcSaVL2U/hqdefault.jpg)](https://www.youtube.com/watch?v=FghJcSaVL2U)
 
-https://www.youtube.com/watch?v=FghJcSaVL2U
 
 ## ★ About:
 
