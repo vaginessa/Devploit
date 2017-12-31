@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/Devploit-v1.0-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Devploit-v1.1-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 ## ☠ ★ Devploit . version 1.1 ☠
