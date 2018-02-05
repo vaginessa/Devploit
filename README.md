@@ -25,6 +25,7 @@ Run in Terminal
 
 Devploit
 
+(To run in Android you do not install file Run direct python2 Devploit)
 ## ★ Properties :
 
 ● DNS Lookup 
