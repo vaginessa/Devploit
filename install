@@ -1,0 +1,51 @@
+#!/bin/bash
+#
+#
+# author : Joker-Security 
+# Tested on Kali Linux / lxle-linux / Parrot Os 
+# Simple script for Install Devploit
+#Colors
+cyan='\e[0;36m'
+green='\e[0;32m'
+lightgreen='\e[1;32m'
+white='\e[1;37m'
+red='\e[1;31m'
+yellow='\e[1;33m'
+blue='\e[1;34m'
+#Options
+path=`pwd` # Path
+VeR="V2.3" # Version
+#Check root exist
+[[ `id -u` -eq 0 ]] > /dev/null 2>&1 || { echo  $red "You must be root to run the script"; exit 1; }
+echo -e $cyan ""
+echo "    ____                  __      _ __     ";
+echo "   / __ \___ _   ______  / /___  (_) /_    ";
+echo "  / / / / _ \ | / / __ \/ / __ \/ / __/    ";
+echo " / /_/ /  __/ |/ / /_/ / / /_/ / / /_      ";
+echo "/_____/\___/|___/ .___/_/\____/_/\__/$VeR     ";
+echo "               /_/                         ";
+echo -e $white "------------------------------"
+echo -e $red "[ ✔ ] Installer The Tool [ ✔ ] "; 
+echo -e $white "------------------------------"
+echo -e $green "[ ! ] Moving Devploit folder "
+mkdir /usr/share/Devploit
+cp install /usr/share/Devploit  
+cp Devploit /usr/share/Devploit
+cp update.py /usr/share/Devploit
+cp -r modules /usr/share/Devploit
+echo -e $blue "[ ✔ ]Done"
+echo "#!/bin/sh" >> /usr/bin/Devploit
+echo "cd /usr/share/Devploit" >> /usr/bin/Devploit
+echo "exec python Devploit \"\$@\"" >> /usr/bin/Devploit
+cp $path/Dev/Devploit.desktop /usr/share/applications/Devploit.desktop
+cp $path/Dev/kali-Devploit.png /usr/share/icons/kali-Devploit.png
+cp Devploit /usr/local/sbin/Devploit 
+chmod +x /usr/local/sbin/Devploit
+chmod +x Devploit
+echo -e $white "------------------------------------------------------------------------"
+echo -e $red "[ ✔ ] Devploit Is Installed In Application (information gathering) [ ✔ ]"
+echo -e $white "------------------------------------------------------------------------"
+echo -e $green"╔────────────────────────────╗ "
+echo -e $blue "|Run in Terminal<(Devploit)> |  "
+echo -e $green"╚────────────────────────────╝ "
+exit
