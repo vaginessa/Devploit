@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=01-info-gathering;01-04-network-scanners;02-vulnerability-analysis;
 X-Kali-Package=Devploit
-Name[C]=Devploit.desktop
+Name[C]=Devploit
