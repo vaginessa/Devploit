@@ -50,6 +50,11 @@ Devploit
 
 <img src="https://i.imgur.com/k0XG34B.png" width="23%"></img> <img src="https://i.imgur.com/vvgOEw1.png" width="23%"></img> <img src="https://i.imgur.com/B3rOz5B.png" width="23%"></img> 
 
+
+## ★ video tutorial:
+
+[![ Devploit - Information Gathering Tool (Version 2.3) ](https://i.ytimg.com/vi/dAgB3PI75IQ/hqdefault.jpg)](https://www.youtube.com/watch?v=jJ9cZ-IcLg4)
+
 ## ★ About:
 
 ● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
