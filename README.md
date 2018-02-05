@@ -53,7 +53,7 @@ Devploit
 
 ## ★ video tutorial:
 
-[![ Devploit - Information Gathering Tool (Version 2.3) ](https://i.ytimg.com/vi/dAgB3PI75IQ/hqdefault.jpg)](https://www.youtube.com/watch?v=jJ9cZ-IcLg4)
+[![ Devploit - Information Gathering Tool (Version 2.3) ](https://i.ytimg.com/vi/jJ9cZ-IcLg4/hqdefault.jpg)](https://www.youtube.com/watch?v=jJ9cZ-IcLg4)
 
 ## ★ About:
 
