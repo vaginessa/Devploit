@@ -1,5 +1,6 @@
 [![Version](https://img.shields.io/badge/Devploit-v2.3-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 ## ★ Devploit . version 2.3
 
