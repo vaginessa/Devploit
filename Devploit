@@ -176,7 +176,7 @@ def  select():
     elif joker == 14:
       dz = raw_input('\033[91mEntre Your Domain :\033[91m')
       path = os.getcwd()
-      os.system('cd ' +  path  + '/modules && python theHarvester.py -d %s -b all' % dz)
+      os.system('cd ' +  path  + '/modules && python2 theHarvester.py -d %s -b all' % dz)
       ext()
     elif joker == 15:
       print("This property operates only in Linux systems\033[92m")
