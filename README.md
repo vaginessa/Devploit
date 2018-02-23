@@ -13,7 +13,7 @@ Devploit is a simple python script to Information Gathering
 
 ## ★ Download:
 
-● git clone https://github.com/zD4NI3L/Devploit
+● git clone https://github.com/zD4NI3LH/Devploit
 
 ## ★ How to use:
 
