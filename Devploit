@@ -11,10 +11,8 @@
 # Devploit . Version 2.3
 # Devploit - Information Gathering Tool
 ############################################
-# Coder   : Joker-Security
-# Twitter : https://twitter.com/SecurityJoker 
-# YouTuB  : https://www.youtube.com/c/Professionalhacker25
-# FaCeBook: https://www.facebook.com/kali.linux.pentesting.tutorials
+# Coder   : zD4NI3L
+# YouTuB  : https://www.youtube.com/c/zD4NI3LHacked
 ############################################
 from urllib2 import *
 from platform import system
@@ -52,9 +50,8 @@ banner = '''
                  '._L/_H____]                                                                                          
 ==[[ .:: Name : Devploit ::.]]==\033[91m
 ==[[ .:: Version: 2.3 ::.]]==\033[96m
-==[[ .:: Author : Joker-Security ::.]]==\033[92m
-==[[ .:: Github : http://www.github.com/joker25000 ::.]]==\033[93m
-==[[ .:: Twitter: https://twitter.com/SecurityJoker ::.]]==\033[95m
+==[[ .:: Author : zD4NI3L ::.]]==\033[92m
+==[[ .:: Github : http://www.github.com/zD4NI3LH ::.]]==\033[93m
 '''
 print banner
 def menu():
@@ -190,15 +187,13 @@ def  select():
       slowprint("...............")
       slowprint("Version : 2.3 \033[91m")
       slowprint(".............")
-      slowprint("Author: Joker-Security \033[96m")
+      slowprint("Author: zD4NI3L \033[96m")
       slowprint("......................")
-      slowprint("Github : http://www.github.com/joker25000  \033[92m")
+      slowprint("Github : http://www.github.com/zD4NI3LH  \033[92m")
       slowprint(".........................................")
-      slowprint("Twitter : https://twitter.com/SecurityJoker  \033[91m")
       slowprint("...........................................")
-      slowprint("Youtube : https://www.youtube.com/c/Professionalhacker25 \033[96m")
+      slowprint("Youtube : https://www.youtube.com/c/zD4NI3LHacked \033[96m")
       slowprint("........................................................")
-      slowprint("Facebook : http://facebook.com/kali.linux.pentesting.tutorials \033[96m ")
       slowprint(".............................................................. ")
       ext() 
     elif joker == 00:
