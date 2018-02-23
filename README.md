@@ -5,7 +5,7 @@
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 ## ★ Devploit . version 2.3
 
-   Author: Joker-Security [ dev-labs ]
+   Author: zD4NI3L
 
 ## ★ Description:
 
@@ -13,7 +13,7 @@ Devploit is a simple python script to Information Gathering
 
 ## ★ Download:
 
-● git clone https://github.com/joker25000/Devploit
+● git clone https://github.com/zD4NI3L/Devploit
 
 ## ★ How to use:
 
@@ -59,11 +59,7 @@ Devploit
 
 ## ★ About:
 
-● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
-
-● Twitter : https://twitter.com/SecurityJoker
-
-● FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
+● YOUTUBE : https://www.youtube.com/c/zDNI3LHacked
 
 ● Tested On : Windows / Linux / Android Phone (Termux No root)
 
