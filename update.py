@@ -1,11 +1,11 @@
 #!/usr/bin/env python2
 #-*- coding: utf-8 -*-
 #
-# author : Joker-Security 
+# author : zD4NI3L
 # Tested on Kali Linux / lxle-linux
 # Simple script for install Devploit
 
-__author__ = "Joker-Security"
+__author__ = "zD4NI3L"
 
 import os
 import pip
@@ -21,7 +21,7 @@ banner = '''
 ██████╔╝███████╗ ╚████╔╝ ██║     ███████╗╚██████╔╝██║   ██║   
 ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝v2.3  
                 Update Script for Devploit
-           Created by Joker-Security [dev-labs] 
+           Created by zD4NI3L
 
 '''
 print banner
@@ -36,7 +36,7 @@ python Devploit "$@"
 def main():
 	if os.name != "nt":
 		if os.getuid() == 0:
-			os.system("git clone http://github.com/joker25000/Devploit /usr/share/Devploit")
+			os.system("git clone http://github.com/zD4NI3L/Devploit /usr/share/Devploit")
 			for i in ["requests", "bs4"]:
 				pip.main(["install", i])
 			
